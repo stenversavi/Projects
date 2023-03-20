@@ -1,5 +1,4 @@
-# Project
-SpinTEK internship CLI application
+# SpinTEK internship CLI application
 
 Download ZIP folder or open with IDE.
 
