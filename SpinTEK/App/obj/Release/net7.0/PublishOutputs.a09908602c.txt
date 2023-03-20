@@ -1,5 +1,0 @@
-C:\Users\stenv\Projects\SpinTEK\App\bin\Release\net7.0\publish\App.exe
-C:\Users\stenv\Projects\SpinTEK\App\bin\Release\net7.0\publish\App.dll
-C:\Users\stenv\Projects\SpinTEK\App\bin\Release\net7.0\publish\App.deps.json
-C:\Users\stenv\Projects\SpinTEK\App\bin\Release\net7.0\publish\App.runtimeconfig.json
-C:\Users\stenv\Projects\SpinTEK\App\bin\Release\net7.0\publish\App.pdb
