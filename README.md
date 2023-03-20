@@ -1,6 +1,6 @@
 # SpinTEK internship CLI application
 
-Download ZIP folder or open with IDE.
+Download ZIP folder of the solution.
 
 -> Download ZIP folder
  -> Extract contents to your preffered location
