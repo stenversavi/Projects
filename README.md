@@ -3,7 +3,7 @@
 Download ZIP folder of the solution.
 
 -> Download ZIP folder
- -> Extract contents to your preffered location
+ -> Extract contents to your preferred location
   -> Open folder 
    -> SpinTEK
     -> App
